@@ -1,9 +1,5 @@
 # Welcome to pfREST
 
-**Extending pfSense CE for Everyone.**
-
-### Our Mission
-
 pfREST is a community-driven effort dedicated to enhancing the capabilities of pfSense Community Edition (CE). Our primary goal is to bridge the gap in missing modern features, ensuring that pfSense CE remains a powerful and viable firewall solution for home labs, hobbyists, and organizations alike.
 
 pfSense CE is an incredible open-source platform, but as the landscape of technology evolves, so do the needs of its users. pfREST exists to meet these evolving needs by providing modern, in-demand functionalities that are not available in the core product. From programmatic access via APIs to advanced authentication mechanisms and improved observability, these projects aim to bring next-generation features to the pfSense CE ecosystem.
